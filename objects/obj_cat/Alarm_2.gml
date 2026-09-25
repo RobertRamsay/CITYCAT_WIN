@@ -1,0 +1,1 @@
+allowInputs=true

@@ -1,0 +1,1 @@
+f_room_entry("Once a pond a time.")

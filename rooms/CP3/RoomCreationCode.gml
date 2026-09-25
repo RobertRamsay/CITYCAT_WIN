@@ -1,0 +1,1 @@
+f_room_entry("Relics of the past here...")

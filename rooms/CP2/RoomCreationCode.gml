@@ -1,0 +1,1 @@
+f_room_entry("Is this where they keep stuff?")

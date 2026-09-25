@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"path_cat_stairs1",
+  "closed":false,
+  "kind":0,
+  "name":"path_cat_stairs1",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":128.0,"y":168.0,},
+    {"speed":100.0,"x":139.9816,"y":164.49847,},
+    {"speed":100.0,"x":180.00006,"y":132.0,},
+    {"speed":100.0,"x":187.00006,"y":130.0,},
+    {"speed":100.0,"x":144.0,"y":96.0,},
+    {"speed":100.0,"x":132.00006,"y":94.0,},
+    {"speed":100.0,"x":177.00006,"y":60.0,},
+    {"speed":100.0,"x":192.71777,"y":53.860435,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

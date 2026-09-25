@@ -1,0 +1,1 @@
+#macro IS_STEAM_BUILD false

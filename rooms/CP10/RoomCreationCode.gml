@@ -1,0 +1,1 @@
+f_room_entry("Anything of interest here?")
